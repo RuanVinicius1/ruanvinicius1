@@ -14,8 +14,8 @@
  Estou interessado em criar **aplicativos intuitivos e fáceis de usar** que ajudem as pessoas a gerenciar suas finanças e investimentos.  Também sou fascinado pelo **aprendizado de máquina** e seu potencial para revolucionar vários setores.
 
  Atualmente estou aprendendo **Passport** e expandindo meu conhecimento em **[GO, C#]**.
- 
-Linguagens que domino:
+ #### 💻 Linguagens & Core
+
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Python](https://img.shields.io/badge/python-3670A0?style=flat-square)](https://www.python.org/)
