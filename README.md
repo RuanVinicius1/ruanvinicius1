@@ -1,12 +1,16 @@
-# Olá, meu nome é [@RuanVinicius1](https://github.com/RuanVinicius1) 👋
+# Olá, eu sou o Ruan Vinicius 👋
 
-**Engenheiro de Software** | **Aprendiz apaixonado**
+**Engenheiro de Software** | **Aprendiz Apaixonado**
 
 [![GitHub stars](https://img.shields.io/github/stars/RuanVinicius1?style=social)](https://github.com/RuanVinicius1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://br.linkedin.com/in/ruanvinicius1)
+[![Bluesky](https://img.shields.io/bluesky/followers/ruanvinicius1.bsky.social?style=social)](https://bsky.app/profile/ruanvinicius1.bsky.social)
 
-### 🎓 Educação & Foco
-* 🏛️ **Estudante de Análise e Desenvolvimento de Sistemas (ADS)** na **UNIVERSIDADE PITÁGORAS UNOPAR ANHANGUERA**
-* 📚 **Foco de Estudos:** Arquitetura de Software, Fintechs e Algoritmos de Machine Learning.
+---
+
+### 🏛️ Educação & Foco
+* 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** na **UNIVERSIDADE PITÁGORAS UNOPAR ANHANGUERA**.
+* 📚 **Foco atual:** Arquitetura de Software, FinTechs e Machine Learning.
 * 🚀 **Atualmente explorando:** ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) 
   ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) 
   ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=white)
@@ -14,11 +18,11 @@
 ---
 
 ### 🎯 Minha Missão
-> "Minha meta é unir a robustez do Backend com a inteligência de dados para criar **soluções financeiras intuitivas**, tornando o mundo dos investimentos mais acessível através da tecnologia." 🚀
+> "Criar **aplicativos intuitivos** que simplifiquem a gestão de finanças e investimentos, utilizando o poder do **Machine Learning** para revolucionar a experiência do usuário."
 
 ---
 
-### 🛠️ Toolbox (Tecnologias que domino)
+### 🛠️ Toolbox (Minhas Skills)
 
 #### 💻 Linguagens & Core
 <div>
@@ -35,7 +39,26 @@
 
 ---
 
-### 🤝 Vamos colaborar?
-Sou fascinado pelo **aprendizado de máquina** e procuro contribuir em projetos de código aberto relacionados a **fintechs, desenvolvimento web ou inteligência artificial**. 
+### 🚀 Projetos & Contribuições
+* 💎 **Destaques:** `eInvestimentos` e `Jazila Baazar` [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+* 🤝 **Contribuições Ativas:** `Jazila-Baazar` [![Maintenance](https://img.shields.io/badge/maintenance-active-green.svg)](https://github.com/RuanVinicius1)
+* 💡 Disponível para colaborações em projetos **Open Source** voltados para Fintechs e IA.
 
 ---
+
+### 📚 Biblioteca Dev
+Minhas leituras que moldam minha forma de pensar código:
+* **Código Limpo (Clean Code)** - *Robert C. Martin* 📖
+
+---
+
+### ⚡ Além do Código
+* **Curiosidade:** Quando as telas se apagam, você me encontra em trilhas, observando a natureza. A tranquilidade da floresta é minha fonte de inspiração para escrever códigos mais limpos e eficientes! 🌲✨
+
+---
+
+### 📫 Vamos Conversar?
+* **E-mail:** [ruanviniciusbruno@gmail.com](mailto:ruanviniciusbruno@gmail.com)
+* **LinkedIn:** [in/ruanvinicius1](https://br.linkedin.com/in/ruanvinicius1)
+
+**Muito obrigado por visitar meu perfil!** 🌱
