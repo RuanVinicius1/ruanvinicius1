@@ -1,48 +1,41 @@
-Olá, meu nome é [@RuanVinicius1](https://github.com/RuanVinicius1) 👋
+# Olá, meu nome é [@RuanVinicius1](https://github.com/RuanVinicius1) 👋
 
 **Engenheiro de Software** | **Aprendiz apaixonado**
 
- [![GitHub stars](https://img.shields.io/github/stars/RuanVinicius1?style=social)](https://github.com/RuanVinicius1)
+[![GitHub stars](https://img.shields.io/github/stars/RuanVinicius1?style=social)](https://github.com/RuanVinicius1)
 
- ### 🎓 Educação & Foco
+### 🎓 Educação & Foco
 * 🏛️ **Estudante de Análise e Desenvolvimento de Sistemas (ADS)** na **UNIVERSIDADE PITÁGORAS UNOPAR ANHANGUERA**
 * 📚 **Foco de Estudos:** Arquitetura de Software, Fintechs e Algoritmos de Machine Learning.
 * 🚀 **Atualmente explorando:** ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) 
-    ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) 
-    ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) 
+  ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=white)
 
- Estou interessado em criar **aplicativos intuitivos e fáceis de usar** que ajudem as pessoas a gerenciar suas finanças e investimentos.  Também sou fascinado pelo **aprendizado de máquina** e seu potencial para revolucionar vários setores.
+---
 
- Atualmente estou aprendendo **Passport** e expandindo meu conhecimento em **[GO, C#]**.
+### 🎯 Minha Missão
+> "Minha meta é unir a robustez do Backend com a inteligência de dados para criar **soluções financeiras intuitivas**, tornando o mundo dos investimentos mais acessível através da tecnologia." 🚀
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![Python](https://img.shields.io/badge/python-3670A0?style=flat-square)](https://www.python.org/)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-43B02A?style=flat-square)](https://nodejs.org/)
+---
 
-️ Procuro colaborar em projetos de código aberto relacionados a **fintech, desenvolvimento web ou aprendizado de máquina**. 
+### 🛠️ Toolbox (Tecnologias que domino)
 
- Como chegar até mim:
+#### 💻 Linguagens & Core
+<div>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</div>
 
-* **E-mail:** ruanviniciusbruno@gmail.com
-* **LinkedIn:** https://br.linkedin.com/in/ruanvinicius1  
+#### 🌐 Frameworks & Web
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+</div>
 
+---
 
-⚡ Curiosidade: Quando não estou codando, você pode me encontrar explorando trilhas e observando a natureza. A tranquilidade da floresta me inspira a criar códigos mais limpos e eficientes!).  ‍✨
+### 🤝 Vamos colaborar?
+Sou fascinado pelo **aprendizado de máquina** e procuro contribuir em projetos de código aberto relacionados a **fintechs, desenvolvimento web ou inteligência artificial**. 
 
-**Projetos e gostos:**
-
-* **️ Outras informações sobre meus projetos e gostos.**
-
-* Projetos de sucesso: eInvestimentos, Jazila Baazar. [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-* Livros: Código limpo - Robert Cecil Martin. 
-* Contribuições: Jazila-Baazar. [![Maintenance](https://img.shields.io/badge/maintenance-active-green.svg)](https://github.com/YourRepo/YourProject)
-
-**Muito obrigado por estar aqui .** 🌱
-
-Espero que isso ajude! Deixe-me saber se você tiver alguma outra dúvida. 📫
-
-
-
-
+---
