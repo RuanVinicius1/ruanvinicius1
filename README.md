@@ -1,6 +1,12 @@
 Olá, meu nome é [@RuanVinicius1](https://github.com/RuanVinicius1) 👋
 
 **Engenheiro de Software** | **Aprendiz apaixonado**
+### 🎓 Educação & Foco
+* 🏛️ **Estudante de Análise e Desenvolvimento de Sistemas (ADS)** na **UNIVERSIDADE PITÁGORAS UNOPAR ANHANGUERA**
+* 📚 **Foco de Estudos:** Arquitetura de Software, Fintechs e Algoritmos de Machine Learning.
+* 🚀 **Atualmente explorando:** ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) 
+    ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) 
+    ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=white)
 
  [![GitHub stars](https://img.shields.io/github/stars/RuanVinicius1?style=social)](https://github.com/RuanVinicius1)
 
