@@ -7,8 +7,9 @@ Olá, meu nome é [@RuanVinicius1](https://github.com/RuanVinicius1) 👋
  Estou interessado em criar **aplicativos intuitivos e fáceis de usar** que ajudem as pessoas a gerenciar suas finanças e investimentos.  Também sou fascinado pelo **aprendizado de máquina** e seu potencial para revolucionar vários setores.
 
  Atualmente estou aprendendo **Passport** e expandindo meu conhecimento em **[GO, C#]**.
- 
-  [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square)](https://en.wikipedia.org/wiki/C%2B%2B)
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Python](https://img.shields.io/badge/python-3670A0?style=flat-square)](https://www.python.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-43B02A?style=flat-square)](https://nodejs.org/)
