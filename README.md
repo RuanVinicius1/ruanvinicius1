@@ -1,4 +1,4 @@
-# Olá, meu nome é [Ruan Vinicius](https://github.com/ruanviniciusbruno) 👋
+# Olá, eu sou o [Ruan Vinicius](https://github.com/ruanviniciusbruno) 👋
 
 **Engenheiro de Software** | **Aprendiz apaixonado**
 
