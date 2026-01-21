@@ -1,8 +1,8 @@
-# Olá, eu sou o [Ruan Vinicius](https://github.com/ruanviniciusbruno) 👋
+# Olá, eu sou o [Vinicius](https://github.com/vini-leao) 👋
 
 **Engenheiro de Software** | **Aprendiz apaixonado**
 
- [![GitHub stars](https://img.shields.io/github/stars/ruanviniciusbruno?style=social)](https://github.com/ruanviniciusbruno)
+ [![GitHub stars](https://img.shields.io/github/stars/vini-leao?style=social)](https://github.com/vini-leao)
 
  ### 🎓 Educação & Foco
 * 🏛️ **Estudante de Análise e Desenvolvimento de Sistemas (ADS)** na **UNIVERSIDADE PITÁGORAS UNOPAR ANHANGUERA**
@@ -27,7 +27,7 @@
  Como chegar até mim:
 
 * **E-mail:** ruanviniciusbruno@gmail.com
-* **LinkedIn:** https://br.linkedin.com/in/ruanviniciusbruno  
+* **LinkedIn:** https://br.linkedin.com/in/vini-leao 
 
 
 ⚡ Curiosidade: Quando não estou codando, você pode me encontrar explorando trilhas e observando a natureza. A tranquilidade da floresta me inspira a criar códigos mais limpos e eficientes!).  ‍✨
