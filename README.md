@@ -26,7 +26,7 @@
 
  Como chegar até mim:
 
-* **E-mail:** ruanviniciusbruno@gmail.com
+* **E-mail:** pablo2duoi@gmail.com
 * **LinkedIn:** https://br.linkedin.com/in/pablo2duo 
 
 
